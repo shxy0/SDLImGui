@@ -9,4 +9,3 @@ include(cmake/config.cmake)
 
 # projects
 add_subdirectory(src)
-

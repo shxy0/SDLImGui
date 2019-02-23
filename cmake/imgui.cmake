@@ -19,4 +19,3 @@ set_target_properties(imgui PROPERTIES LINKER_LANGUAGE CXX)
 set_target_properties(imgui PROPERTIES FOLDER 3rdparty)
 
 set(IMGUI_LIBRARIES imgui)
-
