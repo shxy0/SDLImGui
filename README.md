@@ -1,9 +1,3 @@
-
-```
-sudo apt-get install -y \
-    libsdl2-dev
-```
-
 ## Introduction
 
 Minimal GUI example project using ImGui, SDL2, OpenGL 2.0 and CMake.
